@@ -1,3 +1,2 @@
 # hello-world
-This is a short description of my 'hello-world' repository created on Sep 3 2020.
-
+This is a short description, edit to the 'hello-world' repository created on Sep 3 2020.
